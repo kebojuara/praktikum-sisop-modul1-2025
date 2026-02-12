@@ -1,0 +1,4 @@
+*/2 * * * * /home/$user/cloud_storage/scripts/automation.sh
+*/10 * * * * /home/$user/cloud_storage/scripts/download.sh 
+0 */2 * * * /home/$user/cloud_storage/scripts/archive.sh
+
